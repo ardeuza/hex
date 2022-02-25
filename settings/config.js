@@ -12,8 +12,8 @@ global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan n
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
 global.lolkey = 'RIFQIBOTZ' //apikey
 global.limit = {
-		free:20,
-		premium:1000
+		free:2000,
+		premium:10000
 	}
 global.session_name = "session.json"
 
