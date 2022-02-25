@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/armvxo/hex/settings/haruka.jpg" alt="HARUKA BOT" width="200"/>
+<img src="https://github.com/armvxo/hex/blob/master/settings/Haruka.jpg" alt="HARUKA BOT" width="200"/>
 
 <p align="center">
     <a href="https://zeeoneofc.github.io">
