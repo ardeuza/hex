@@ -378,7 +378,7 @@ module.exports = haruka = async (haruka, mek) => {
 		if (!mek.key.fromMe && global.self === true) return
 //colong aja bang, ingat jgn asal colong ntr sc lu error
 switch (command) {
-case 'menu': case 'help': case 'haruka':
+case 'menu': case 'help': case 'ardeuz': case 'bot': case 'haruka':
 if (!isHaruka) return sendButMessage(from, lang.noregis(pushname), `Klik Button Untuk Verify`, [{buttonId: '.daftar',buttonText: {displayText: `Daftar`,},type: 1,}], {quoted: fgif});
 				sendButLocation(from, lang.menu(prefix, salam, pushname), '© ' + ownername, thumbnail, [{buttonId: '.owner', buttonText: {displayText: 'Owner'}, type: 1}], {quoted: mek})
 				break
