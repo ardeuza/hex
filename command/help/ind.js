@@ -185,13 +185,6 @@ exports.menu = (prefix, salam, pushname) =>{
 │ • ${prefix}owner
 │ • ${prefix}daftar
 │
-├ *Owner*
-│ • ${prefix}broadcast [text]
-│ • ${prefix}leave
-│ • >
-│ • $
-│ •  => 
-│
 ├ *Group*
 │ • ${prefix}antilink 1 / 0
 │ • ${prefix}hidetag [text]
